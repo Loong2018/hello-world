@@ -1,5 +1,7 @@
 # hello-world
 
+中文的分支
+
 Hi Humans!
 
 Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
